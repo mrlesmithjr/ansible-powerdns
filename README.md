@@ -5,8 +5,8 @@ An Ansible role that installs/configures PowerDNS https://www.powerdns.com/ (MyS
 
 * IMPORTANT - This repo is now deprecated. PowerDNS roles are now separate.
 
-- `https://github.com/mrlesmithjr/ansible-powerdns-authoritative`
-- `https://github.com/mrlesmithjr/ansible-powerdns-recursor`
+  - https://github.com/mrlesmithjr/ansible-powerdns-authoritative
+  - https://github.com/mrlesmithjr/ansible-powerdns-recursor
 
 Requirements
 ------------
