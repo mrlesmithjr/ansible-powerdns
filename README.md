@@ -1,7 +1,9 @@
 > [!CAUTION]
 > **This project is archived and no longer maintained.**
 > Archived: 2026-03-26
-> Reason: Deprecated; split into ansible-powerdns-authoritative and ansible-powerdns-recursorRole Name
+> Reason: Deprecated; split into ansible-powerdns-authoritative and ansible-powerdns-recursor
+
+Role Name
 =========
 
 An Ansible role that installs/configures PowerDNS https://www.powerdns.com/ (MySQL cluster ready)
